@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class OnlineShopApp
@@ -98,6 +99,9 @@ public class OnlineShopApp
                 int customerChoice;
                 do
                 {
+                    System.out.println("==== AVAILABLE PRODUCTS ====");
+                    System.out.println(inventory.viewAllProducts());
+
                     System.out.println("==== CUSTOMER MENU ====");
                     System.out.println("1. Add Products To Cart");
                     System.out.println("2. Remove Products From Cart");
@@ -275,17 +279,17 @@ public class OnlineShopApp
                     }
                     else if(customerChoice == 5)
                     {
-                            System.out.print("Enter your password to view orders: ");
-                            String pass = input.nextLine().trim();
-                            if(pass.equals(currentCustomer.getPassword()))
-                            {
-                                System.out.println(inventory.viewOrdersByCustomer(currentCustomer.getUserID()));
-                            }
-                            else
-                            {
-                                System.out.println("Incorrect password!.");
-                                System.out.println();
-                            }
+                        System.out.print("Enter your password to view orders: ");
+                        String pass = input.nextLine().trim();
+                        if(pass.equals(currentCustomer.getPassword()))
+                        {
+                            System.out.println(inventory.viewOrdersByCustomer(currentCustomer.getUserID()));
+                        }
+                        else
+                        {
+                            System.out.println("Incorrect password!.");
+                            System.out.println();
+                        }
                     }
                     else if(customerChoice == 6)
                     {
