@@ -1,0 +1,44 @@
+Order Date: Wed Dec 10 21:11:53 PKT 2025
+------ ORDER DETAILS ------
+Order ID: Order100
+User ID: C100
+Name: Anique Ahmad
+Email: aneeqahmad423@gmail.com
+Address: House # 66 Ichra Lahore
+Phone: 03097555888
+
+Products Purchased:
+Nike Running Shoes | Rs. 3500.0 | Quantity: 1
+HP Pavilion Laptop | Rs. 68000.0 | Quantity: 1
+
+------ BILL DETAILS ------
+Subtotal: Rs. 71500.0
+Tax (16%): Rs. 11440.0
+Discount: Rs. 7150.0
+Total Payable: Rs. 75790.0
+---------------------------
+
+=================================================
+
+Order Date: Wed Dec 10 21:12:46 PKT 2025
+------ ORDER DETAILS ------
+Order ID: Order101
+User ID: C101
+Name: Rauf Shiekh
+Email: raufshiekh879@gmail.com
+Address: Mughal Pura Lahore
+Phone: 03201003737
+
+Products Purchased:
+Sony Wireless Headphones | Rs. 25000.0 | Quantity: 1
+Apple iPhone 13 | Rs. 79999.0 | Quantity: 1
+
+------ BILL DETAILS ------
+Subtotal: Rs. 104999.0
+Tax (16%): Rs. 16799.84
+Discount: Rs. 10499.900000000001
+Total Payable: Rs. 111298.94
+---------------------------
+
+=================================================
+

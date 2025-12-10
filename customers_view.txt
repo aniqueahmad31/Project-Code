@@ -1,0 +1,14 @@
+========== REGISTERED CUSTOMERS LIST ==========
+
+User ID  : C100
+Name     : Anique Ahmad
+Email    : aneeqahmad423@gmail.com
+Phone    : 03097555888
+Address  : House # 66 Ichra Lahore
+-----------------------------------------------
+User ID  : C101
+Name     : Rauf Shiekh
+Email    : raufshiekh879@gmail.com
+Phone    : 03201003737
+Address  : Mughal Pura Lahore
+-----------------------------------------------

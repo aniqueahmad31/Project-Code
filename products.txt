@@ -1,0 +1,10 @@
+P101,Men’s Cotton Shirt,Casual light blue cotton shirt,1500.0,15,M,Blue,Cotton
+P102,Women’s Denim Jacket,Stylish and trendy denim jacket,2500.0,10,L,Black,Denim
+P103,Apple iPhone 13,Latest iPhone model with A15 Bionic chip,79999.0,20,Apple,12,Smartphone
+P104,Smart LED TV,55-inch Smart LED TV 4K resolution,45000.0,8,Samsung,24,Smart TV
+P105,Nike Running Shoes,Comfortable and stylish running shoes,3500.0,25,42,White,Sports Shoes
+P106,HP Pavilion Laptop,Core i7 processor 16GB RAM 512GB SSD,68000.0,5,HP,12,Laptop
+P107,Levis Denim Jeans,Classic fit blue denim jeans for men,4500.0,12,32,Blue,Denim
+P108,Sony Wireless Headphones,Noise cancelling over-ear headphones,25000.0,10,Sony,12,Headphone
+P109,Winter Fleece Hoodie,Warm black hoodie with kangaroo pocket,2200.0,20,L,Black,Fleece
+P110,Apple Watch Series 8,Smartwatch with health tracking sensors,45000.0,7,Apple,12,Smartwatch
