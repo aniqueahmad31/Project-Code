@@ -1,0 +1,8 @@
+========== REGISTERED CUSTOMERS LIST ==========
+
+User ID  : C101
+Name     : Anique Ahmad
+Email    : aneeqahmad423@gmail.com
+Phone    : 03097555817
+Address  : House # 66 3-S Ichra Lahore
+-----------------------------------------------

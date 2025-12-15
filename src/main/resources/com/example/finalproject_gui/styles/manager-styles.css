@@ -1,0 +1,65 @@
+/* ===== ROOT BACKGROUND ===== */
+.root-pane {
+    -fx-background-color: linear-gradient(
+        to bottom right,
+        rgb(35, 0, 60),
+        rgb(55, 0, 80)
+    );
+}
+
+/* Top Title */
+.label-title {
+    -fx-font-family: "Segoe UI Black";
+    -fx-font-size: 28pt;
+    -fx-text-fill: #1A5276;
+    -fx-padding: 20px 0 20px 0;
+    -fx-alignment: center;
+}
+
+/* Manager Dashboard Label */
+.label-dashboard {
+    -fx-font-family: "Segoe UI Semibold";
+    -fx-font-size: 18pt;
+    -fx-text-fill: #FFFFFF;
+    -fx-padding: 10px 0 5px 0;
+}
+
+/* Left Menu VBox */
+#managerMenuVBox {
+    -fx-background-color: rgba(20, 12, 32, 0.85);
+    -fx-padding: 15px;
+    -fx-spacing: 12px;
+}
+
+/* Menu Buttons Styling */
+.button {
+    -fx-font-family: "Segoe UI Semibold";
+    -fx-font-size: 14pt;
+    -fx-background-color: linear-gradient(to right, rgb(100, 55, 160), rgb(140, 75, 200));
+    -fx-text-fill: white;
+    -fx-min-width: 200px;
+    -fx-background-radius: 10px;
+    -fx-padding: 8px 10px;
+}
+
+.button:hover {
+    -fx-background-color: linear-gradient(to right, rgb(80, 45, 130), rgb(120, 60, 180));
+    -fx-cursor: hand;
+}
+
+/* Center StackPane */
+.stack-pane {
+    -fx-background-color: rgba(240, 240, 245, 0.9);
+    -fx-padding: 15px;
+}
+
+/* TextArea */
+#mainDisplayArea {
+    -fx-font-family: "Courier New";
+    -fx-font-size: 12pt;
+    -fx-text-fill: #2C3E50;
+    -fx-control-inner-background: #FFFFFF;
+    -fx-border-color: #BDC3C7;
+    -fx-border-width: 1px;
+    -fx-padding: 10px;
+}
